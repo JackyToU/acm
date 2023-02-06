@@ -1,4 +1,4 @@
 # acm
 aa
 Test 
-$y=\sum_{i=1}^xi$
+$y=\sum_{i=1}^{x}i$
